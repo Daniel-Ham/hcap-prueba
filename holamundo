@@ -1,1 +1,4 @@
-print("hola mundo")
+
+a=int(input('Dame un numero'))
+b= int(input('dame otro numero'))
+print('la suma es: '+str(a+b))
